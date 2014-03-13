@@ -19,7 +19,7 @@ number6 = parseInt(number2); // Convert to type 'int'
 number7 = prompt("Please enter number 7"); 
 number7 = parseInt(number1); // Convert to type 'int' 
 
-average=(number1+number2+number3+number4+number5+number6+number7+)/2 
+average=(number1+number2+number3+number4+number5+number6+number7)/2 
 
 } 
 
