@@ -1,1 +1,2 @@
 This is my assingment 2 personal calculator
+this is a average calculator that with will taking the avaerage of 7 differemt numbers
